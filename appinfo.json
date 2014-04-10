@@ -1,0 +1,87 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "3101b3cc-abeb-4f6e-9526-5caa85a2636b",
+    "appKeys": {},
+    "longName": "Little Duffer 2.0",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "LittleDuffer2",
+    "companyName": "kaplanfx",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9]",
+                "type": "font",
+                "name": "FONT_DUEPUNTOZERO_BOLD_38",
+                "file": "fonts/duepuntozero_bold_38.ttf"
+            },
+            {
+                "characterRegex": "[ :EHLOT]",
+                "type": "font",
+                "name": "FONT_DUEPUNTOZERO_BOLD_24",
+                "file": "fonts/duepuntozero_bold_24.ttf"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_9",
+                "file": "images/time_9.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_8",
+                "file": "images/time_8.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_7",
+                "file": "images/time_7.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_6",
+                "file": "images/time_6.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_5",
+                "file": "images/time_5.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_4",
+                "file": "images/time_4.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_3",
+                "file": "images/time_3.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_2",
+                "file": "images/time_2.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_1",
+                "file": "images/time_1.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TIME_0",
+                "file": "images/time_0.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/gball_icon.png"
+            }
+        ]
+    }
+}
