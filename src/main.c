@@ -1,5 +1,7 @@
 #include <pebble.h>
 
+//A test comment to see how the pull request will work
+
 //define some frame sizes
 #define HOLE_HEADER_FRAME (GRect(0,80,70,30))
 #define TOTAL_HEADER_FRAME (GRect(74,80,70,30))
